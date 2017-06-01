@@ -27,12 +27,13 @@ Services:
  - Different region based convertion.
  - Amount and number different facility.
  - Floating point acceptable.
- - And conjuction adding or removing functionality. (new)
- - Chosing option of number of digit after decimal point. (new)
+ - And conjunction adding or removing functionality. (new)
+ - Choosing option of number of digit after decimal point. (new)
  - More functionality added like: Clear, Copy, Reset. (new)
  - Minimize to system tray option. (new)
  - Theme changing option. (new)
  - Auto save settings. (new)
+ - New user interface. (new)
 
 <hr />
 
