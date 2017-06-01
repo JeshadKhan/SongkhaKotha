@@ -11,7 +11,7 @@ A freeware number to text converter desktop application with two different langu
  * Profile              : www.jeshadkhan.com
   ------------------------------------------------------------------------------
  * Title                : Songkha Kotha
- * Version              : 1.0
+ * Version              : 1.1
  * License              : Licensed under MIT <http://opensource.org/licenses/MIT>
 
 <hr />
@@ -27,6 +27,12 @@ Services:
  - Different region based convertion.
  - Amount and number different facility.
  - Floating point acceptable.
+ - And conjuction adding or removing functionality. (new)
+ - Chosing option of number of digit after decimal point. (new)
+ - Clear, Copy, Reset functionality. (new)
+ - Minimize to system tray option. (new)
+ - Theme changing option. (new)
+ - Auto save settings. (new)
 
 <hr />
 
